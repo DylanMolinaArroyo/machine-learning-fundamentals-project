@@ -1,18 +1,18 @@
-# 🤖 Applied Machine Learning Project — TEC 2026
+# Applied Machine Learning Project
 
-A comprehensive machine learning project developed for the **Artificial Intelligence** course at **Tecnológico de Costa Rica (1st Semester 2026)**.
+A comprehensive machine learning project.
 
 This project applies five core ML algorithms to real-world datasets sourced from Kaggle, covering a wide range of problem types including regression, classification, clustering, and time series forecasting.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 The goal of this project is to demonstrate correct implementation, evaluation, and interpretation of fundamental machine learning algorithms applied to real-world data. Each dataset presents a unique challenge, requiring different preprocessing strategies, model choices, and evaluation metrics.
 
 ---
 
-## 📊 Datasets & Algorithms
+## Datasets & Algorithms
 
 | Problem Type | Algorithm(s) | Dataset |
 |---|---|---|
@@ -24,7 +24,7 @@ The goal of this project is to demonstrate correct implementation, evaluation, a
 
 ---
 
-## 🧠 Topics Covered
+## Topics Covered
 
 - **Data Exploration** — understanding structure, distributions, and feature relationships
 - **Data Preprocessing** — handling missing values, encoding, scaling, and train/test splitting
@@ -34,7 +34,7 @@ The goal of this project is to demonstrate correct implementation, evaluation, a
 
 ---
 
-## 📈 Key Results
+## Key Results
 
 | Dataset | Best Model | Key Metric |
 |---|---|---|
@@ -46,21 +46,20 @@ The goal of this project is to demonstrate correct implementation, evaluation, a
 
 ---
 
-## 🗂️ Project Structure
+## Project Structure
 
 ```
 📦 applied-ml-project-tec
  ┣ 📓 ProyectoIA_v4.ipynb     # Main notebook with all models and analysis
- ┣ 📁 Datasets/               # Place your Kaggle datasets here (not tracked by Git)
+ ┣ 📁 Datasets/               # Place your Kaggle datasets here
  ┣ 📄 README.md
- ┗ 📄 .gitignore
 ```
 
-> ⚠️ **Note:** Datasets are not included in this repository due to file size. Download them from the Kaggle links below and place them in the `/Datasets` folder.
+> **Note:** Datasets are not included in this repository due to file size. Download them from the Kaggle links below and place them in the `/Datasets` folder.
 
 ---
 
-## 📥 Dataset Sources
+## Dataset Sources
 
 - [Heart Failure Prediction Dataset](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction/data)
 - [House Prices - Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data)
@@ -70,7 +69,7 @@ The goal of this project is to demonstrate correct implementation, evaluation, a
 
 ---
 
-## ⚙️ Requirements
+## Requirements
 
 ```bash
 pip install numpy pandas matplotlib seaborn scikit-learn statsmodels
@@ -80,15 +79,8 @@ The notebook was developed and tested on **Google Colab**.
 
 ---
 
-## 👥 Authors
+## Authors
 
 - **Dylan Andrey Molina Arroyo**
 - **Jose Fabricio Alfaro Cabezas**
 - **Andrés Esquivel Gómez**
-
----
-
-## 🏫 Institution
-
-**Tecnológico de Costa Rica**
-Artificial Intelligence Course — 1st Semester 2026
