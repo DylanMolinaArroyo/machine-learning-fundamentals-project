@@ -49,13 +49,11 @@ The goal of this project is to demonstrate correct implementation, evaluation, a
 ## Project Structure
 
 ```
-📦 applied-ml-project-tec
  ┣ 📓 ProyectoIA_v4.ipynb     # Main notebook with all models and analysis
- ┣ 📁 Datasets/               # Place your Kaggle datasets here
  ┣ 📄 README.md
 ```
 
-> **Note:** Datasets are not included in this repository due to file size. Download them from the Kaggle links below and place them in the `/Datasets` folder.
+> **Note:** Datasets are not included in this repository due to file size. Download them from the Kaggle links below and place them on a google drive folder.
 
 ---
 
