@@ -49,7 +49,7 @@ The goal of this project is to demonstrate correct implementation, evaluation, a
 ## Project Structure
 
 ```
- ┣ 📓 ProyectoIA_v4.ipynb     # Main notebook with all models and analysis
+ ┣ 📓 applied_machine_learning.ipynb     # Main notebook with all models and analysis
  ┣ 📄 README.md
 ```
 
